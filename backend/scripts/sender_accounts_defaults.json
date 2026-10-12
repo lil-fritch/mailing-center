@@ -1,0 +1,18 @@
+[
+  {"email": "vita.rursus@gmail.com", "smtp_host": "smtp.gmail.com", "smtp_port": 587, "selenium_required": false},
+  {"email": "saranamaskar@op.pl", "selenium_required": true},
+  {"email": "kasia.nowak97@op.pl", "selenium_required": true},
+  {"email": "agnieszka.wiszniewska@op.pl", "selenium_required": true},
+  {"email": "zuza.namaste@gmail.com", "smtp_host": "smtp.gmail.com", "smtp_port": 587, "selenium_required": false},
+  {"email": "teresa.om.kaminska@o2.pl", "smtp_host": "poczta.o2.pl", "smtp_port": 465, "selenium_required": false},
+  {"email": "vita.ciepla@wp.pl", "smtp_host": "smtp.wp.pl", "smtp_port": 465, "selenium_required": false},
+  {"email": "tereza.kaminska@interia.pl", "smtp_host": "poczta.interia.pl", "smtp_port": 465, "selenium_required": false},
+  {"email": "helena@wydarzenia.yoga", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false},
+  {"email": "adam@wydarzenia.yoga", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false},
+  {"email": "shanti@wydarzenia.yoga", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false},
+  {"email": "yogina@wydarzenia.yoga", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false},
+  {"email": "namaste@wydarzenia.yoga", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false},
+  {"email": "namaste@joga.space", "smtp_host": "mail.joga.space", "smtp_port": 465, "selenium_required": false}
+]
+
+

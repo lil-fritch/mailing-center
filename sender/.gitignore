@@ -1,0 +1,7 @@
+venv/
+logs/
+.env
+selenium_data/
+email_history.json
+email_queue.json
+config/wave_times.json

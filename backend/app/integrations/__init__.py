@@ -1,0 +1,1 @@
+# External integration layer package (AI, mail providers, etc.). 

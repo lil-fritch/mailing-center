@@ -1,0 +1,19 @@
+[
+	{
+		"email": "sender1@gmail.com",
+		"password": "your-gmail-app-password",
+		"first_name": "John",
+		"last_name": "Doe",
+		"server_id": "1"
+	},
+	{
+		"email": "sender2@example.com",
+		"password": "your-smtp-password",
+		"first_name": "Jane",
+		"last_name": "Smith",
+		"imap_host": "imap.example.com",
+		"imap_port": 993,
+		"imap_ssl": true,
+		"server_id": "1"
+	}
+]

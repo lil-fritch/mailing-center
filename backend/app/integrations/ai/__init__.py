@@ -1,0 +1,1 @@
+# AI-related integrations (e.g., OpenAI Assistant API). 
